@@ -1,0 +1,11 @@
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\bin\Debug\netcoreapp2.0\InterviewProblems.deps.json
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\bin\Debug\netcoreapp2.0\InterviewProblems.runtimeconfig.json
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\bin\Debug\netcoreapp2.0\InterviewProblems.runtimeconfig.dev.json
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\bin\Debug\netcoreapp2.0\InterviewProblems.dll
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\bin\Debug\netcoreapp2.0\InterviewProblems.pdb
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\obj\Debug\netcoreapp2.0\InterviewProblems.csprojAssemblyReference.cache
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\obj\Debug\netcoreapp2.0\InterviewProblems.csproj.CoreCompileInputs.cache
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\obj\Debug\netcoreapp2.0\InterviewProblems.AssemblyInfoInputs.cache
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\obj\Debug\netcoreapp2.0\InterviewProblems.AssemblyInfo.cs
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\obj\Debug\netcoreapp2.0\InterviewProblems.dll
+C:\Users\adbetz\source\repos\Data Structures\InterviewProblems\obj\Debug\netcoreapp2.0\InterviewProblems.pdb
